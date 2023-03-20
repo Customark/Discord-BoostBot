@@ -1,0 +1,3 @@
+\n➜***Whitelisted/Owner Commands***\n\n***➜/Boost***| Boost a server (Amount/Server/1mOR3m/Nickname)\n***➜/whitelist***| Whitelist a user to use your bot\n***➜/restart***|restarts your bot\n***➜/givetokens***| Gives X amount of tokens to a user\n***➜/restock***| Allows you to restock your tokens\n***➜/unwhitelist***| Removes whitelisted user\n***➜/clearstock***| Removes all stock inside 1m/3m\n***Can Chose which stock to clear***\n
+
+Zeile 320  os.system("pm2 start main.py --name=mybot --interpreter=python3")
